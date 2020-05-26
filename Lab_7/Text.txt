@@ -1,0 +1,22 @@
+include <stdio.h> 
+#include <stdlib.h> 
+#include <string.h> 
+ 
+typedef struct stud zing; 
+ 
+    struct stud { 
+    char prizvishe_imya[80]; 
+    int reyting[5]; 
+}; 
+ 
+int vvid(zing *a, int k_max, int k_ocinok); 
+void sort(zing *a,int first,int last); 
+void vivid(zing *a, int k, int k_ocinok); 
+void poshuk2(zing *a, int k, int k_ocinok); 
+void vivid_strilka(zing *a, int k, int k_ocinok); 
+void znak(); 
+ 
+ 
+int main() 
+
+}
